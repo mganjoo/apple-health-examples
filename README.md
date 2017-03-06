@@ -23,3 +23,5 @@ runApp("plotHeartRate.R")
 * `plotHeartRate.R`: Creates an interactive time series plot of heart rate
   data.  Adapted from [Jeff Johnston](https://github.com/jeffjjohnston)'s
   [excellent walkthrough](https://jeffjjohnston.github.io/rstudio/rmarkdown/2016/04/28/explore-your-apple-watch-heart-rate-data.html).
+
+  ![screenshot of plotHeartRate](images/plotHeartRate.png)
